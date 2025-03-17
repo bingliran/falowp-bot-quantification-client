@@ -7,7 +7,7 @@
 ![image](https://github.com/user-attachments/assets/b7afa840-5ebe-45f9-a0ab-53d45ac9d839)
 
 
-`参考文档：https://apifox.com/apidoc/shared-a53bb6ea-7c53-4774-ba5c-8e4f9699fb65`
+* 参考文档 https://apifox.com/apidoc/shared-a53bb6ea-7c53-4774-ba5c-8e4f9699fb65
 
 ### 量化影子账户
 
