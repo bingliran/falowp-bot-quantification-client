@@ -1,7 +1,7 @@
 # falowp-bot-quantification-client
 同花顺量化，同花顺自动下单
 
-### QQ群 487791907
+### 添加QQ 2949753179
 
 ### 最稳定的同花顺自动下单工具
 ![image](https://github.com/user-attachments/assets/b7afa840-5ebe-45f9-a0ab-53d45ac9d839)
@@ -20,4 +20,4 @@
 ## 支持在客户端内查询暗盘交易等信息
 
 
-### QQ群 487791907
+### 添加QQ 2949753179
